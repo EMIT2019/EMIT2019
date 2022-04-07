@@ -35,5 +35,5 @@
 
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=emit2019&label=Profile%20views&color=0e75b6&style=for-the-badge&color=green" alt="jxareas" />
+  <img src="https://komarev.com/ghpvc/?username=emit2019&label=Profile%20views&color=0e75b6&style=for-the-badge&color=green" alt="emit2019" />
 </p>
