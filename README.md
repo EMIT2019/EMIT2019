@@ -1,6 +1,6 @@
 <h1>Hey y’all! 👀 </h1>
 
-<p>I'm a 21 boy that loves programming and learning new things 🔎</p>
+<p>I'm a 22 boy that loves programming and learning new things 🔎</p>
 
 <p align = "center">
   
