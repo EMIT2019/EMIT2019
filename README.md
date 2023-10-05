@@ -26,7 +26,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=emit2019&show_icons=true&theme=swift&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=emit2019&theme=graywhite&hide_border=true" width = 400>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emit2019&hide=html,cmake,css,scss,assembly&theme=swift&langs_count=7&layout=compact&hide_border=true" width = 400>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=emit2019&hide_border=true" width = 420 >
+  <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=emit2019&hide_border=true" width = 420 >-->
  
 </p>
 
